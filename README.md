@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamthebesthackerandcoder
-- 👀 I’m interested in Machine Learning learning 
+- 👀 I’m interested in Machine Learning and julia
 
 
 - 📫 you can reach me on kitty-thud-economy@duck.com
